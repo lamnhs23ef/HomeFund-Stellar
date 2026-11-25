@@ -75,6 +75,6 @@ stellar contract invoke --id my-contract --source-account student --network test
 # Contract Detail
 
 Contract ID: CB4PLUINB2SIRZLWLVO7PJAKLUPZL6CSA7LKYON5S3QG2DEYDJVRN2O7
-Deployer:
+Deployer: GBPQ4IKENPIZQARWSDPQZB5W64L44TLCGKEPQZGOXDTBL6EAA56RO5FF
 
-![Contract on Stellar Expert](image.png)
+![Contract on Stellar Expert](Image.png)
